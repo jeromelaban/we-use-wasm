@@ -8,7 +8,7 @@ A list of companies that use WebAssembly in production!
 By learning about how other companies use WebAssembly, you and your team can determine if it might be the right fit for your software and whether you should give it a try!
 
 
-## We use WebAssembly, how do I add my company here?
+## How do I add my company here?
 
 1. [Create an issue](https://github.com/jakedeichert/we-use-wasm/issues/new) with your company name as the title and fill out the template.
 1. Fork this repo and modify `README.md` to include your company name and link it to your issue. 
