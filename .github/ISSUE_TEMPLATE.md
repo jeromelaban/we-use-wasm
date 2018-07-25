@@ -1,5 +1,5 @@
 **Website:** [link to your website]
-**Languages used to compile to WebAssembly:** [...]
+**Languages used to compile to WebAssembly:** ...
 
 ---
 
@@ -19,6 +19,14 @@
 
 ...
 
-### Anything else you want to share?
+### Are there any learning resources or tools you found helpful?
 
 ...
+
+### Have you published any articles that further describe your experience?
+
+[optional]
+
+### Anything else you want to share?
+
+[optional]
