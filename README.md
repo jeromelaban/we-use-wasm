@@ -1,2 +1,3 @@
-# we-use-wasm
-A list of companies that use wasm in production
+# We Use WebAssembly
+
+A list of companies that use WebAssembly in production!
